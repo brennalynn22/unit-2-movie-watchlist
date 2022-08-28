@@ -1,0 +1,12 @@
+
+
+img {
+    height: 300px;
+    border:15px;
+    border-color: black;
+}
+button {
+    margin: 10px;
+    border-radius:5px;
+    border-width: 1px;
+}
